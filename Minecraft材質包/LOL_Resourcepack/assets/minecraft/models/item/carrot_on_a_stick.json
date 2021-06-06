@@ -1,0 +1,23 @@
+{
+"parent": "item/handheld_rod",
+"textures": {
+"layer0": "item/carrot_on_a_stick"
+},
+
+"overrides": [
+{"predicate": {"custom_model_data":7251}, "model": "item/elosweapon"},
+{"predicate": {"custom_model_data":7252}, "model": "item/elosweaponuse"},
+{"predicate": {"custom_model_data":7261}, "model": "item/skill1ball"},
+{"predicate": {"custom_model_data":7262}, "model": "item/magic_circle1"},
+{"predicate": {"custom_model_data":7263}, "model": "item/magic_circle2"},
+{"predicate": {"custom_model_data":7264}, "model": "item/magic_circle3"},
+{"predicate": {"custom_model_data":7265}, "model": "item/magic_circle4"},
+{"predicate": {"custom_model_data":7266}, "model": "item/icemagic"},
+{"predicate": {"custom_model_data":7270}, "model": "item/book0"},
+{"predicate": {"custom_model_data":7271}, "model": "item/book1"},
+{"predicate": {"custom_model_data":7272}, "model": "item/book2"},
+{"predicate": {"custom_model_data":7273}, "model": "item/book3"},
+{"predicate": {"custom_model_data":7274}, "model": "item/book4"},
+{"predicate": {"custom_model_data":7275}, "model": "item/book5"}
+]
+}
